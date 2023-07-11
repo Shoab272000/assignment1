@@ -20,7 +20,7 @@ body{
 }
 .btn{
     border-radius: 5px;
-    background: #fd6e0a;
+    background: red;
     border: 0;
     color: white;
     font-size: 20px;
@@ -53,7 +53,8 @@ body{
     border-top-right-radius: 150px;
     width: 320px;
     height: 350px;
-    padding-bottom: 0px;
+    
+    
 }
 .box-two{
     background-color: rgb(5, 151, 160, 0.15);
@@ -71,15 +72,35 @@ body{
 }
 .img-one{
     width: 200px;
+    padding: 75px 50px 0px 50px;
 }
 .img-two{
     width: 200px;
+    padding: 80px 50px 0px 50px;
 }
 .img-three{
     width: 200px;
-    border-bottom: 100px;
-   
+    padding: 50px 50px 0px 50px;
+
 }
 .cap{
     text-align: center;
+}
+.hot-deal{
+    display: flex;
+    padding: 70px 300px 70px 200px;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn1{
+    margin-left: 200px;
+}
+.short-para{
+    text-align: center;
+}
+.short-head{
+    text-align: center;
+}
+.hot-deal{
+    background-color: rgb(229, 84, 115, 0.05);
 }
