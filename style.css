@@ -104,3 +104,34 @@ body{
 .hot-deal{
     background-color: rgb(229, 84, 115, 0.05);
 }
+.fo-box{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    padding-left: 150px;
+    padding-right: 250px;
+}
+.one-boxes{
+    width: 220px;
+    height: 150px;
+}
+.two-boxes{
+    width: 220px;
+    
+}
+.three-boxes{
+    width: 220px;
+    height: 150px;
+}
+.four-boxes{
+    width: 220px;
+    height: 150px;
+}
+.img-four{
+    width: 200px;
+    padding: 75px 50px 0px 50px;
+}
+.img-3{
+    width: 200px;
+    padding: 80px 50px 0px 50px;
+}
