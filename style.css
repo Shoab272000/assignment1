@@ -139,6 +139,7 @@ body{
     text-align: center;
     font-size: 40px;
     align-items: center;
+    padding-top: 200px;
 }
 .para1{
     text-align: center;
@@ -151,10 +152,32 @@ body{
     border-radius: 5px;
 }
 .last-page{
-    
+    height: 75vh;
+    background-color: white;
     background-image: url("images/Rectangle\ 9.png");
-
+    background-repeat: no-repeat;
+}
+.foot{
+    height: 50vh;
+    background-color: black;
 }
 .text{
-    color: #e555473;
+    color: #e55473;
+}
+.text-1{
+    color: white;
+}
+.foot-head{
+    text-align: center;
+    padding-top: 100px;
+}
+.para2{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+.para3{
+    color: white;
+    font-size: 15px;
+    text-align: center;
 }
