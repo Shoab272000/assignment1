@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.ban{
+    background-color: rgb(229, 84, 115, 0.10);
+}
+.cont{
+    font-size: 60px;
+}
+.first-img{
+    width: 335px;
+    height: 500px;
+}
+.banner{
+    display: flex;
+    padding: 50px 140px 0 160px;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    border-radius: 5px;
+    background: #fd6e0a;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+
