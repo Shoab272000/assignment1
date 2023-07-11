@@ -147,7 +147,7 @@ body{
     align-items: center;
 }
 .Input{
-    margin-left: 400px;
+    margin-left: 250px;
     padding: 20px 500px 18px 21px;
     border-radius: 5px;
 }
@@ -156,6 +156,8 @@ body{
     background-color: white;
     background-image: url("images/Rectangle\ 9.png");
     background-repeat: no-repeat;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .foot{
     height: 50vh;
