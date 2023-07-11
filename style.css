@@ -26,5 +26,60 @@ body{
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+    cursor: pointer;
+}
+.head-cont{
+    padding: 100px;
+    text-align: center;
+}
+.para{
+    font-size: 10px;
+}
+.headi{
+    font-size: 40px;
+}
+.box-container{
+    display: flex;
+    gap: 15px;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 643px;
+    justify-content: space-around;
 }
 
+.box-one{
+    background-color: rgb(167, 33, 98, 0.15);
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    width: 320px;
+    height: 350px;
+    padding-bottom: 0px;
+}
+.box-two{
+    background-color: rgb(5, 151, 160, 0.15);
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    width: 320px;
+    height: 350px;
+}
+.box-three{
+    background-color: rgb(71, 125, 17, 0.15);
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    width: 320px;
+    height: 350px;
+}
+.img-one{
+    width: 200px;
+}
+.img-two{
+    width: 200px;
+}
+.img-three{
+    width: 200px;
+    border-bottom: 100px;
+   
+}
+.cap{
+    text-align: center;
+}
